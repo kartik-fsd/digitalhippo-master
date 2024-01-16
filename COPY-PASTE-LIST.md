@@ -649,7 +649,7 @@ export function constructMetadata({
       creator: '@KartikShettar',
     },
     icons,
-    metadataBase: new URL('https://digitalhippo.up.railway.app'),
+    metadataBase: new URL('https://hippo-digitals.up.railway.app/'),
     ...(noIndex && {
       robots: {
         index: false,
